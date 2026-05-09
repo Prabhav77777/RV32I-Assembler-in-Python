@@ -142,7 +142,7 @@ The assembler detects and reports:
 
 # 👨‍💻 Author
 ## this is a group project with 4 member 
-## ** i am Prabhav Agrawal**
+### **i am Prabhav Agrawal**
 
 🎓 First-Year B.Tech Student  
 📚 Computer Science and Applied Mathematics  
