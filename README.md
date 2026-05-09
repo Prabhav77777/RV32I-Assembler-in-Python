@@ -146,7 +146,6 @@ The assembler detects and reports:
 
 🎓 First-Year B.Tech Student  
 📚 Computer Science and Applied Mathematics  
-at :contentReference[oaicite:0]{index=0}
 
 ---
 
